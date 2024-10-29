@@ -3,14 +3,17 @@ const ligalahData = {
     firstname: "Ligalah",
     lastname: "Hezron",
     email: "ligahh@gmail.com",
-    role: "Developer",
-    skills: [ "JavaScript", "Angular", "kaboomJS", "NodeJS"],
+    role: "Frontend Developer",
+    skills: [ "JavaScript", "Angular"],
     socials: [
       {
         git: "Ligalah",
       },
       {
         twitter: "ligalahh",
+      },
+      {
+        instagram: "ligalahhezronn",
       },
     ],
   };
