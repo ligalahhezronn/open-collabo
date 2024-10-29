@@ -4,7 +4,7 @@ const ligalahData = {
     lastname: "Hezron",
     email: "ligahh@gmail.com",
     role: "Frontend Developer",
-    skills: [ "JavaScript", "Angular"],
+    skills: [ "HTML5","ECMAScript 2024", "Typescript", "CSS3", "Tailwind CSS", "React Native", "Figma", "Wix studio", "Angular"],
     socials: [
       {
         git: "Ligalah",
@@ -14,6 +14,9 @@ const ligalahData = {
       },
       {
         instagram: "ligalahhezronn",
+      },
+      {
+        instagram: "ligalah",
       },
     ],
   };
